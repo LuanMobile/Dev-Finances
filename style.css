@@ -55,6 +55,10 @@
  a:hover {
      color: var(--light-green);
  }
+
+img {
+    cursor:pointer;
+}
  
  button {
      width: 100%;
