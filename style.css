@@ -277,6 +277,8 @@ img {
      color: var(--dark-blue);
      opacity: 0.6;
      margin-top: auto;
+     align-items: center;
+     justify-content: center;
  }
  
  /* Responsive ======================= */
