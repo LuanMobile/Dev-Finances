@@ -276,9 +276,8 @@ img {
      padding: 4rem 0 2rem;
      color: var(--dark-blue);
      opacity: 0.6;
-     margin-top: auto;
-     align-items: center;
-     justify-content: center;
+     position: fixed;
+     bottom: 0;
  }
  
  /* Responsive ======================= */
