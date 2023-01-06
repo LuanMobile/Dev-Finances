@@ -277,6 +277,7 @@ img {
      color: var(--dark-blue);
      opacity: 0.6;
      position: fixed;
+     bottom: 0px;
  }
  
  /* Responsive ======================= */
